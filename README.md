@@ -1,2 +1,2 @@
-# 2024_portfolio
-https://nani-portfolio.netlify.app
+# 2026_portfolio
+https://nani-portfolio-2026.netlify.app/
